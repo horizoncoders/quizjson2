@@ -124,6 +124,21 @@
       "id": 20,
       "answer": "pizza"
     }
+      
+  ],
+    "results": [
+    {
+      "result": "Stern - You’re a very serious person!",
+    },
+     {
+      "result": "Funny - You have a wicked sense of humour!",
+    },
+     {
+      "result": "Outgoing - You’re a perfect mix of funny, chill, and intelligence!  ",
+    },
+      {
+      "result": "Shy - You’re shy and reserved!  "
+    }
   ],
   "profile": {
     "name": "typicode"
