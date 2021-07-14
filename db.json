@@ -1,0 +1,131 @@
+{
+  "titles": [
+    {
+      "id": 1,
+      "title": "Tell Us Your Favorite Foods And We’ll Guess What Type Of Personality You Have  "
+    },
+     {
+      "id": 2,
+      "title": " Pick some food"
+    },
+     {
+      "id": 3,
+      "title": "Pick a movie snack"
+    },
+      {
+      "id": 4,
+      "title": "Pick a fast-food spot"
+    },
+      {
+      "id": 5,
+      "title": "Pick some more food"
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "url": "https://incrussia.ru/wp-content/uploads/2018/10/iStock-694189032.jpg"
+    },
+     {
+      "id": 2,
+      "url": "https://ichef.bbci.co.uk/news/640/cpsprodpb/41F7/production/_105278861_gettyimages-855098134.jpg"
+    },
+     {
+      "id": 3,
+      "url": "https://static.wikia.nocookie.net/edopedia/images/c/cd/%D0%9F%D0%BE%D0%BF%D0%BA%D0%BE%D1%80%D0%BD.png/revision/latest/top-crop/width/360/height/450?cb=20170827085052&path-prefix=ru"
+    },
+      {
+      "id": 4,
+      "url": "https://medportal.ru/pictures/article/241c7100-6af0-46e7-ae6d-dca81082ef5f/medium.jpg"
+    },
+      {
+      "id": 5,
+      "url": "https://www.maggi.ru/data/images/recept/img640x500/recept_9215_pdv5.jpg"
+    }
+  ],
+    "answers:": [
+    {
+      "id": 1,
+      "answer:": "caesar salad"
+    },
+     {
+      "id": 2,
+      "answer:": "nuggets"
+    },
+     {
+      "id": 3,
+      "answer:": "burger"
+    },
+      {
+      "id": 4,
+      "answer:": "chicken sandwich"
+    },
+      {
+      "id": 5,
+      "answer": "fruit"
+    },
+      {
+      "id": 6,
+      "answer": "salad"
+    },
+      {
+      "id": 7,
+      "answer": "parfait"
+    },
+       {
+      "id": 8,
+      "answer:": "pasta salad"
+    },
+       {
+      "id": 9,
+      "answer:": "M&M’s"
+    },
+        {
+      "id": 10,
+      "answer:": "caramel popcorn"
+    },
+        {
+      "id": 11,
+      "answer:": "traditional popcorn"
+    },
+          {
+      "id": 12,
+      "answer:": "ice cream"
+    },
+             {
+      "id": 13,
+      "answer:": "Dunkin’ Donuts"
+    },
+              {
+      "id": 14,
+      "answer:": "Wendy’s"
+    },
+                {
+      "id": 15,
+      "answer:": "Burger King"
+    },
+                 {
+      "id": 16,
+      "answer:": "McDonald’s "
+    },
+                  {
+      "id": 17,
+      "answer:": "pasta"
+    },
+                   {
+      "id": 18,
+      "answer:": "chicken"
+    },
+                    {
+      "id": 19,
+      "answer:": "sandwich"
+    },
+                     {
+      "id": 20,
+      "answer:": "pizza"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
