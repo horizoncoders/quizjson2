@@ -43,22 +43,22 @@
       "url": "https://www.maggi.ru/data/images/recept/img640x500/recept_9215_pdv5.jpg"
     }
   ],
-    "answers:": [
+    "answers": [
     {
       "id": 1,
-      "answer:": "caesar salad"
+      "answer": "caesar salad"
     },
      {
       "id": 2,
-      "answer:": "nuggets"
+      "answer": "nuggets"
     },
      {
       "id": 3,
-      "answer:": "burger"
+      "answer": "burger"
     },
       {
       "id": 4,
-      "answer:": "chicken sandwich"
+      "answer": "chicken sandwich"
     },
       {
       "id": 5,
@@ -74,55 +74,55 @@
     },
        {
       "id": 8,
-      "answer:": "pasta salad"
+      "answer": "pasta salad"
     },
        {
       "id": 9,
-      "answer:": "M&M’s"
+      "answer": "M&M’s"
     },
         {
       "id": 10,
-      "answer:": "caramel popcorn"
+      "answer": "caramel popcorn"
     },
         {
       "id": 11,
-      "answer:": "traditional popcorn"
+      "answer": "traditional popcorn"
     },
           {
       "id": 12,
-      "answer:": "ice cream"
+      "answer": "ice cream"
     },
              {
       "id": 13,
-      "answer:": "Dunkin’ Donuts"
+      "answer": "Dunkin’ Donuts"
     },
               {
       "id": 14,
-      "answer:": "Wendy’s"
+      "answer": "Wendy’s"
     },
                 {
       "id": 15,
-      "answer:": "Burger King"
+      "answer": "Burger King"
     },
                  {
       "id": 16,
-      "answer:": "McDonald’s "
+      "answer": "McDonald’s "
     },
                   {
       "id": 17,
-      "answer:": "pasta"
+      "answer": "pasta"
     },
                    {
       "id": 18,
-      "answer:": "chicken"
+      "answer": "chicken"
     },
                     {
       "id": 19,
-      "answer:": "sandwich"
+      "answer": "sandwich"
     },
                      {
       "id": 20,
-      "answer:": "pizza"
+      "answer": "pizza"
     }
   ],
   "profile": {
